@@ -1,16 +1,17 @@
-## Hi there 👋
+Intrests: 
+  - Game Development: Unity, C#, Gamplay and programming, UI/UX, Music
+  - Programming: C#, Python, and Java
+  - Creative Tech: Custom Unity Shaders, Game Structure
 
-<!--
-**AidenBain/AidenBain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+What I'm Working On:
+  - Developing small games
+  - Exploring different aspects of game design
+  - Expanding programming and game development skills
 
-Here are some ideas to get you started:
+What I'm Learning:
+  - A variety of skills for the Unity game engine (custom shaders, netcode for game objects, etc.)
+  - Theoretical game design
+  - Programming Languages (Java, C++)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Where to Find Me:
+  - [https://www.linkedin.com/in/aiden-bain-00a984380/](url)
